@@ -1,3 +1,5 @@
+![image](https://files.catbox.moe/9wd33v.jpg)
+
 # Image Deep Fryer
 
 This Python tool allows you to "deep fry" an image by applying extreme downscaling and upscaling to distort the image, followed by severe JPEG compression for that "artifacted" effect that gives it a truly low-quality look. Perfect for memes, social media posts, or just adding some extra absurdity to your images.
