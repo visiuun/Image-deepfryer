@@ -27,7 +27,7 @@ pip install pillow
 ## How to Use
 
 1. Clone or download this repository to your local machine.
-2. Run the script `deepfry_image.py` (or whatever you name it) in your terminal or command prompt.
+2. Run the script `image fryer.py` (or whatever you name it) in your terminal or command prompt.
 3. A file selection window will open, allowing you to choose the image you want to deep fry.
 4. After selecting the image, choose an output directory where the modified image will be saved.
 5. Enter a compression percentage between 1 and 500. The higher the number, the more extreme the "deep frying" effect.
